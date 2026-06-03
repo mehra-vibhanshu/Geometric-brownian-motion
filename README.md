@@ -44,6 +44,6 @@ The resulting chart visualizes the log-normal distribution of potential market o
 
 2. pip install numpy matplotlib
 =======
-   git clone [https://github.com/mehra-vibhanshu/geometric-brownian-motion.git](https://github.com/mehra-vibhanshu/geometric-brownian-motion.git)
+   git clone [https://github.com/mehra-vibhanshu/Geometric-brownian-motion/blob/main/Geometric_brownian_motion.png](https://github.com/mehra-vibhanshu/Geometric-brownian-motion/blob/main/Geometric_brownian_motion.png)
 
 1. pip install numpy matplotlib
