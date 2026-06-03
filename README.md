@@ -33,17 +33,15 @@ The use of Euler's constant ($e$) ensures that asset prices dynamically scale ba
 
 The resulting chart visualizes the log-normal distribution of potential market outcomes, mapping out both high-performing outlier timelines and baseline support levels over a full trading year.
 
-![GBM Simulation Chart](gbm_simulation.png)
+![GBM Simulation Chart](Geometric_brownian_motion.png)
+
+## 🔧 How to Run the Project Locally
 
 ## 🔧 How to Run the Project Locally
 
 1. Clone this repository:
    ```bash
-<<<<<<< HEAD
-   git clone [https://github.com/mehra-vibhanshu/geometric-Brownian-motion.git](https://github.com/mehra-vibhanshu/geometric-Brownian-motion.git)
+   git clone [https://github.com/mehra-vibhanshu/Geometric_brownian_motion.git](https://github.com/mehra-vibhanshu/Geometric_brownian_motion.git)
 
 2. pip install numpy matplotlib
-=======
-   git clone [https://github.com/mehra-vibhanshu/Geometric-brownian-motion/blob/main/Geometric_brownian_motion.png](https://github.com/mehra-vibhanshu/Geometric-brownian-motion/blob/main/Geometric_brownian_motion.png)
-
-1. pip install numpy matplotlib
+3. python simulation.py
